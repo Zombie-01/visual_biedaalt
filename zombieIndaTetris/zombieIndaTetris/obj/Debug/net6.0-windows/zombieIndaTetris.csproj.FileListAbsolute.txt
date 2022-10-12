@@ -1,0 +1,17 @@
+D:\zombie\biedaalt\zombieIndaTetris\zombieIndaTetris\bin\Debug\net6.0-windows\zombieIndaTetris.exe
+D:\zombie\biedaalt\zombieIndaTetris\zombieIndaTetris\bin\Debug\net6.0-windows\zombieIndaTetris.deps.json
+D:\zombie\biedaalt\zombieIndaTetris\zombieIndaTetris\bin\Debug\net6.0-windows\zombieIndaTetris.runtimeconfig.json
+D:\zombie\biedaalt\zombieIndaTetris\zombieIndaTetris\bin\Debug\net6.0-windows\zombieIndaTetris.dll
+D:\zombie\biedaalt\zombieIndaTetris\zombieIndaTetris\bin\Debug\net6.0-windows\zombieIndaTetris.pdb
+D:\zombie\biedaalt\zombieIndaTetris\zombieIndaTetris\obj\Debug\net6.0-windows\zombieIndaTetris.csproj.AssemblyReference.cache
+D:\zombie\biedaalt\zombieIndaTetris\zombieIndaTetris\obj\Debug\net6.0-windows\zombieIndaTetris.Form1.resources
+D:\zombie\biedaalt\zombieIndaTetris\zombieIndaTetris\obj\Debug\net6.0-windows\zombieIndaTetris.csproj.GenerateResource.cache
+D:\zombie\biedaalt\zombieIndaTetris\zombieIndaTetris\obj\Debug\net6.0-windows\zombieIndaTetris.GeneratedMSBuildEditorConfig.editorconfig
+D:\zombie\biedaalt\zombieIndaTetris\zombieIndaTetris\obj\Debug\net6.0-windows\zombieIndaTetris.AssemblyInfoInputs.cache
+D:\zombie\biedaalt\zombieIndaTetris\zombieIndaTetris\obj\Debug\net6.0-windows\zombieIndaTetris.AssemblyInfo.cs
+D:\zombie\biedaalt\zombieIndaTetris\zombieIndaTetris\obj\Debug\net6.0-windows\zombieIndaTetris.csproj.CoreCompileInputs.cache
+D:\zombie\biedaalt\zombieIndaTetris\zombieIndaTetris\obj\Debug\net6.0-windows\zombieIndaTetris.dll
+D:\zombie\biedaalt\zombieIndaTetris\zombieIndaTetris\obj\Debug\net6.0-windows\refint\zombieIndaTetris.dll
+D:\zombie\biedaalt\zombieIndaTetris\zombieIndaTetris\obj\Debug\net6.0-windows\zombieIndaTetris.pdb
+D:\zombie\biedaalt\zombieIndaTetris\zombieIndaTetris\obj\Debug\net6.0-windows\zombieIndaTetris.genruntimeconfig.cache
+D:\zombie\biedaalt\zombieIndaTetris\zombieIndaTetris\obj\Debug\net6.0-windows\ref\zombieIndaTetris.dll
