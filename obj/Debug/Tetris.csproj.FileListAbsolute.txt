@@ -28,3 +28,14 @@ C:\GitHub\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
 C:\GitHub\Tetris\obj\Debug\Tetris.exe
 C:\GitHub\Tetris\obj\Debug\Tetris.pdb
 C:\Users\Ben\Desktop\C#\Tetris\obj\Debug\Tetris.MainWindow.resources
+D:\projects\c++\Tetris\bin\Debug\Tetris.exe.config
+D:\projects\c++\Tetris\bin\Debug\Tetris.exe
+D:\projects\c++\Tetris\bin\Debug\Tetris.pdb
+D:\projects\c++\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+D:\projects\c++\Tetris\obj\Debug\Tetris.csproj.SuggestedBindingRedirects.cache
+D:\projects\c++\Tetris\obj\Debug\Tetris.MainWindow.resources
+D:\projects\c++\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+D:\projects\c++\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+D:\projects\c++\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\projects\c++\Tetris\obj\Debug\Tetris.exe
+D:\projects\c++\Tetris\obj\Debug\Tetris.pdb
